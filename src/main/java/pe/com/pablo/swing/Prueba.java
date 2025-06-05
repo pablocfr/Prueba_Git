@@ -8,8 +8,6 @@ import javax.swing.border.EmptyBorder;
 
 import pe.com.pablo.service.*;
 import pe.com.pablo.service.impl.*;
-import pe.edu.cibertec.t1.entity.Cliente;
-import pe.edu.cibertec.t1.entity.Factura;
 import pe.com.pablo.entity.*;
 
 import javax.swing.JLabel;
